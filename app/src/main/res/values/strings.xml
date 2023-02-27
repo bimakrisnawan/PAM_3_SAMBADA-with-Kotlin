@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">PAM Activity</string>
+    <string name="label_username">Username</string>
+    <string name="label_password">Password</string>
+    <string name="testing" translatable="false">Testing</string>
+    <string name="signup">Sign-Up</string>
+    <string name="title_activity_sign" translatable="false">SignActivity</string>
+    <string name="first">First Name</string>
+    <string name="second">Second Name</string>
+    <string name="username_sign">Username</string>
+    <string name="password_sign">Password</string>
+    <string name="confirm">Confirmation</string>
+    <string name="sign">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="home_a1">PKB Info</string>
+    <string name="home_a2">Payment</string>
+    <string name="home_a3">Proof of Payment</string>
+    <string name="home_a4">Ownership\nProtection</string>
+    <string name="home_b1">SAMLING\nSchedule</string>
+    <string name="home_b2">E-Samsat\nMechanism</string>
+    <string name="home_b3">Suggestions and\nComplaints</string>
+    <string name="home_b4">Other</string>
+    <string name="home_c1">Swipe To Contact</string>
+    <string name="article_1">Mobile Samsat</string>
+    <string name="article_2">Maintenance</string>
+    <string name="article_3">Tax Check</string>
+    <string name="profile_a1">Your Profile</string>
+    <string name="profile_b1">Email</string>
+    <string name="profile_b2">Phone Number</string>
+    <string name="profile_b3">2-Step Verification</string>
+    <string name="profile_b4">Tax check</string>
+    <string name="login_a1">WELCOME TO SAMBADA</string>
+    <string name="sign_desc">PLEASE COMPLETE THE\nFOLLOWING DATA</string>
+    <string name="newstitle1">Should know! Samsat Facts for Beginner Vehicle Owners</string>
+    <string name="news1">The name Samsat is no strange to car owners, because every year they will ...</string>
+    <string name="newstitle2">Samsat in Indonesia</string>
+    <string name="news2">Based on Presidential Regulation number 5 of 2015 concerning Implementation of a One-Stop Single Administration ...</string>
+    <string name="newstitle3">700 thousand taxpayers take advantage of Sambara to pay taxes online</string>
+    <string name="news3">Sambara, West Java Mobile Samsat is a form of commitment from the West Java Provincial Government to work with ...</string>
+    <string name="titlefeature">Features</string>
+    <string name="bot_1">Home</string>
+    <string name="bot_2">Information</string>
+    <string name="bot_3">Profile</string>
+    <string name="trending">Trending</string>
+    <string name="jadwalsamsat">Click to see the samsat tour schedule</string>
+    <string name="maintenance">Report any problems</string>
+    <string name="paymentinfo">Click to view payment info</string>
+    <string name="profile_b4_content">Not Verified</string>
+    <string name="taxinfo">Click to see your tax bill</string>
+    <string name="greeting">Whats new?</string>
+    <string name="greeting2">Find your answers here</string>
+</resources>

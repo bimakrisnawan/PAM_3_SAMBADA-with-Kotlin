@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PAM Activity</string>
+    <string name="label_username">Nama Pengguna</string>
+    <string name="label_password">Kata Sandi</string>
+    <string name="signup">Daftar</string>
+    <string name="first">Nama Depan</string>
+    <string name="second">Nama Belakang</string>
+    <string name="username_sign">Nama Pengguna</string>
+    <string name="password_sign">Kata Sandi</string>
+    <string name="confirm">Konfirmasi Ulang</string>
+    <string name="sign">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="home_a1">Info PKB</string>
+    <string name="home_a2">Pembayaran</string>
+    <string name="home_a3">Bukti Bayar</string>
+    <string name="home_a4">Proteksi\nKepemilikan</string>
+    <string name="home_b1">Jadwal\nSAMLING</string>
+    <string name="home_b2">Mekanisme\nE-Samsat</string>
+    <string name="home_b3">Saran dan\nPengaduan</string>
+    <string name="home_b4">Lainya</string>
+    <string name="home_c1">Geser Untuk Menghubungi</string>
+    <string name="article_1">Samsat Keliling</string>
+    <string name="article_2">Pemeliharaan</string>
+    <string name="article_3">Cek Pajak</string>
+    <string name="profile_a1">Profil Kamu</string>
+    <string name="profile_b1">Surel</string>
+    <string name="profile_b2">Nomor Telepon</string>
+    <string name="profile_b3">Informasi Pembayaran</string>
+    <string name="profile_b4">Verifikasi 2 Langkah</string>
+    <string name="login_a1">SELAMAT DATANG DI SAMBADA</string>
+    <string name="sign_desc">SILAHKAN LENGKAPI\nDATA BERIKUT</string>
+    <string name="newstitle1">Harus Tahu! Fakta Samsat untuk Pemilik Kendaraan Pemula</string>
+    <string name="news1">Nama Samsat sudah tidak asing di telinga para pemilik mobil, karena setiap tahunnya pasti akan ...</string>
+    <string name="newstitle2">Samsat di Indonesia</string>
+    <string name="news2">Berdasarkan Peraturan Presiden nomor 5 Tahun 2015 tentang Penyelenggaraan Sistem Administrasi ...</string>
+    <string name="newstitle3">700 Ribu Wajib Pajak Manfaatkan Sambara Untuk Bayar Pajak Secara Online</string>
+    <string name="news3">Sambara, Samsat Mobile Jawa Barat merupakan sebuah bentuk komitmen ...</string>
+    <string name="titlefeature">Fitur</string>
+    <string name="bot_1">Beranda</string>
+    <string name="bot_2">Informasi</string>
+    <string name="bot_3">Profil</string>
+    <string name="trending">Sedang Hangat</string>
+    <string name="jadwalsamsat">Klik untuk melihat jadwal samsat keliling</string>
+    <string name="maintenance">Klik untuk melihat jadwal samsat keliling</string>
+    <string name="paymentinfo">Klik untuk melihat info pemabayaran</string>
+    <string name="profile_b4_content">Belum terverifikasi</string>
+    <string name="taxinfo">Klik untuk melihat tagihan pajak anda</string>
+    <string name="greeting">Apa yang baru?</string>
+    <string name="greeting2">Temukan jawaban mu disini</string>
+
+</resources>
